@@ -39,43 +39,43 @@ function verResultado()
 	{
 		if (elResultadoEs >= 9)
 		{
-			alert("Excelente");
+			alert("Excelente. Sigue trabajando de esa manera.");
 		}
 		else
 		{
 			if (elResultadoEs >= 5.9)
 			{
-				alert("Muy bueno");
+				alert("Vas por muy buen camino, sigue mejorando como persona y llega al exito.");
 			}
 			else
 			{
 				if (elResultadoEs >= 2.9)
 				{
-					alert("Bueno");
+					alert("Sigue mejorando, cada día vas mejorando, y el camino por el que avanzas te llevará a muchas cosas buenas. Sigue así.");
 				}
 				else
 				{
 					if (elResultadoEs >= 0)
 					{
-						alert("Neutral");
+						alert("Hay que seguir mejorando, hay muchas cosas que deben de mejorarse, explora que más puedes hacer leyendo el contenido de la página y ponlo en practica.");
 					}
 					else
 					{
 						if (elResultadoEs >= -3)
 						{
-							alert("Malo");
+							alert("Poco a poco puedes ir mejorando, revisa los puntos aquí señalados y empieza a practicarlos.");
 						}
 						else
 						{
 							if (elResultadoEs >= -6)
 							{
-								alert("Muy Malo");
+								alert("El camino que sigues no es muy prometedor, sin embargo, aun se puede empezar a mejorar.");
 							}
 							else
 							{
-								if (elResultadoEs >= -9)
+								if (elResultadoEs >= -10)
 								{
-									alert("Pesimo");
+									alert("Algo malo está pasando, hay que empezar a cambiar los habitos que tienes por mejores habitos para crecer como persona. Tú puedes.");
 								}
 							}
 						}
