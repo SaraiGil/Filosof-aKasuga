@@ -310,3 +310,10 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+.imgAbout{
+  max-width: 100%;
+	max-height: 100%;
+	/* margin-left: 170px;
+	margin-top: 10px; */
+	border-radius: 150px;
+}
